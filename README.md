@@ -1,5 +1,5 @@
-# hello-world
-A simple webpage
+# Isaac Boateng
+Project Portfolio
 
 Hello earthlings!
 
